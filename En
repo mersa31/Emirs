@@ -10,7 +10,7 @@ local words = {
     'HAHAHAHAH Noob im not locking',
     'you bad',
     'Ez Stomped By Emircik! 3499',
-    'Huh Noob Leave!',
+    'Huh Noob Get Over Here!',
 }
 
 local player = game.Players.LocalPlayer
